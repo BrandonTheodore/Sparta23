@@ -5,6 +5,7 @@
 * [Technologies Used](#technologies-used)
 * [How To Run](#How-To-Run)
 * [Challenges](#challenges)
+* [Bonus Status](#bonus-status)
 * [Identity](#identity)
 <!-- * [License](#license) -->
 
@@ -32,6 +33,16 @@
 2. Not very skillful in making UI/UX
 
 3. Not enough time to explore a lot of things
+
+
+## Bonus Status
+1. Deployment : _Not Done_
+
+2. Responsive UI : _Partial_
+
+3. Data Basis or CMS : _Not Done_
+
+4. Creativity : _Partial_
 
 
 ## Identity
